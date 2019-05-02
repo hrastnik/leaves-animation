@@ -1,10 +1,10 @@
-# web-playground
+# Preview
 
-> My ultimate Nuxt.js project
+![Preview](./preview.gif)
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ npm install
 
